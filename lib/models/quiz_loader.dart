@@ -6,7 +6,7 @@ import 'data.dart';
 class QuizLoader {
   Future<List<Quiz>> load() async {
     final data = (jsonDecode(
-                await rootBundle.loadString('assets/data/complex_quiz.json'))
+                await rootBundle.loadString('assets/data/quiz.json'))
             as List)
         .map<Data>(
             (dynamic json) => Data.fromJson(json as Map<String, dynamic>))
