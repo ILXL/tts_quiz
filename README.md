@@ -37,14 +37,18 @@ For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Features
+## Current Features
 
 - Text to Speech function.
 - Ability to work offline.
 - Responsive design for varying screen sizes.
-- Push notification
-- Feedback system
-- Seemless UI
+
+## Future Developments
+
+- Server database.
+- Multiple Categories.
+- Better UI.
+- User authorization.
 
 ## Code Example
 
